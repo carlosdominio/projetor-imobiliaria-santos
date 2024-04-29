@@ -1,0 +1,136 @@
+/*---------classes gerais -------*/
+*{
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.divgeral{
+    margin: 0px auto;
+    width: 700px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.espaçamento{
+    padding: 15px;
+
+    }
+    .espaçamentoh2{
+        padding: 30px;
+
+    }
+
+
+.alinhamento{
+    text-align: justify;
+}
+
+.corblue{
+
+    color: #4d7494;
+}
+
+.pesodafonte{
+    font-weight: bold;
+
+}
+
+.secao02{
+    width: 1024px;
+}
+
+/*-------------------secao cabeçalho---------------------*/
+.secao01 {
+    margin: 0px auto;
+    text-align: center;
+    background-color:#80A0BC;
+    height: 240px;
+
+}
+
+    
+    
+
+.secao01 a{
+    padding: 10px;
+    text-decoration: none;
+   color: aliceblue;
+   font-size: 20px;
+    
+}
+
+/*-------------------secao 04---------------------*/
+.secao04 p,h2 {
+    text-align: center;
+    color: white;
+    
+}
+.secao04{
+    background-color: #135683;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.secao04 p{
+    width: 800px;
+    margin: 0 auto;
+
+}
+
+.listacentral{
+    text-align:left;
+    width: 150px;
+    margin: 0 auto;
+    height: 150px;
+    color: aliceblue;
+}
+
+
+/*FONTE SIZE GERAL*/
+p,ul{
+    font-size: 20px;line-height: 26px;
+
+}
+
+
+
+/*-----------------secao06--------------------*/
+.secao06{
+    background-color: #135683;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.secao06 div p a{
+    width: 139px;
+    text-align:center;
+   color: rgb(6, 90, 164);
+   border: 0px solid;
+   background-color: #ffffff;
+   padding: 5px;
+   border-radius: 5px;
+}
+.secao06 div p{
+   font-size:20px;
+   padding: 10px;
+   color: beige;
+   margin-top: 15px;
+
+}
+.secao06 .bordaparagrafo{
+    color: #ffffff;
+    border: 0px solid;
+    margin-top:20px;
+    background-color: black;
+    text-align: center;
+    width: 1020px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+.secao06 p span{
+    color: yellow;
+}
+
